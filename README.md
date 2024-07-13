@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="left">E ae👋 Tudo de bem?</h1>
 
-<!--
-**Rosenilson-dv/Rosenilson-dv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Meu nome é Francisco Rosenilson dos Santos Junior com nacionaldade brasileira</p>
+<h2 align="left">Sobre mim</h2>
+<h2 align="left">Programo em</h2>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rosenilson-dv/count.svg"  />
+</div>
