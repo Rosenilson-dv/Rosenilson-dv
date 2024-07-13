@@ -2,6 +2,8 @@
 
 <p align="left">Meu nome é Francisco Rosenilson dos Santos Junior com nacionaldade brasileira</p>
 <h2 align="left">Sobre mim</h2>
+23 anos
+RN/Assu
 <h2 align="left">Programo em</h2>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
