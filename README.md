@@ -1,8 +1,9 @@
 <h1 align="left">E ae👋 Tudo de bem?</h1>
 
-<p align="left">Meu nome é Francisco Rosenilson dos Santos Junior com nacionaldade brasileira</p>
+<p align="left">Meu nome é Francisco Rosenilson dos Santos Junior</p>
 <h2 align="left">Sobre mim</h2>
 23 anos
+Brazil
 RN/Assu
 <h2 align="left">Programo em</h2>
 <div align="left">
